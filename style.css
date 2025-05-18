@@ -3,7 +3,7 @@
     /* Colors */
     --color-page-background: #50AFC9;
     --color-main-container-background: #a0691c;
-    --color-inner-container-background: #f3ef9c;
+    --color-inner-container-background: #faf9ed;
     --color-border: #0e5b9e;
     --color-button-background: #FFF;
     --color-heading-text: #FFF;
@@ -119,7 +119,7 @@
   .image-content {
     position: relative;
     height: 65%;
-    aspect-ratio: 142.5 / 171;
+    aspect-ratio: 170.5 / 191;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
